@@ -1,0 +1,3 @@
+touch ~/.netrc && chmod 0600 ~/.netrc
+learn whoami
+c05e1a5b9d0eac3024a0a1020afb4315d21aa0af50b92dbb7657b91b2c3f7d76
